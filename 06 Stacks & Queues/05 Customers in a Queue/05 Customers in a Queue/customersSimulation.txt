@@ -1,0 +1,12 @@
+minute 0: Serving null. Queue []
+minute 1: Serving null. Queue []
+minute 2: Serving null. Queue []
+minute 3: Serving 7-Customer:3. Queue [7-Customer:3]
+           Depart  0-Customer:1, wait time was 3 minutes.  Total time so far: 7
+
+minute 7: Serving 7-Customer:3. Queue [7-Customer:3]
+
+Total customers served = 1
+Average wait time = 8.0
+Longest wait time = 3
+Longest queue = 1
